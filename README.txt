@@ -1,10 +1,6 @@
 Group 1
 
-Colton Daigneault
-Cynai Hayes
-Edward Asante
-Pranitha Gaddam
-Ryan Arnold
+Edward Asante (removed others for privacy)
 
 To compile our program, enter "make". No additional flags are necessary.
 

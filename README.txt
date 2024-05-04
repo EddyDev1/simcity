@@ -1,10 +1,10 @@
 Group 1
 
-Colton Daigneault
+Colton Daigneault (@ColtonDno)
 Cynai Hayes
 Edward Asante
-Pranitha Gaddam
-Ryan Arnold
+Pranitha Gaddam (@Pranitha-Gaddam)
+Ryan Arnold (@rsa0105)
 
 To compile our program, enter "make". No additional flags are necessary.
 
